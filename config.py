@@ -5,9 +5,9 @@ load_dotenv()
 
 user = "modulo4"
 password = "modulo4"
-host = os.environ["HOST"]
-database = os.environ["DATABASE"]
-server = os.environ["SERVER"]
+host = "137.184.120.127"
+database = "sigcon"
+server = "postgresql"
 
 DATABASE_CONNECTION_URI = f'{server}://{user}:{password}@{host}/{database}'
 print(DATABASE_CONNECTION_URI)
