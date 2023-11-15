@@ -3,8 +3,8 @@ import os
 
 load_dotenv()
 
-user = os.environ["USER"]
-password = os.environ["PASSWORD"]
+user = "modulo4"
+password = "modulo4"
 host = os.environ["HOST"]
 database = os.environ["DATABASE"]
 server = os.environ["SERVER"]
