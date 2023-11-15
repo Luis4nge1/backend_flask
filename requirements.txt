@@ -21,7 +21,6 @@ Jinja2==3.0.2
 kiwisolver==1.4.4
 MarkupSafe==2.0.1
 marshmallow==3.20.1
-marshmallow-sqlalchemy==0.29.0
 mysql-connector-python==8.0.33
 packaging==23.1
 platformdirs==3.7.0
