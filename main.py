@@ -16,7 +16,6 @@ from routes.conteo_estado_solicitud_routes import conteo_estado_solicitud_routes
 from routes.solicitudes_estado_routes import solicitudes_estado_routes
 from routes.informacion_solicitante_routes import informacion_solicitante_routes
 from routes.informacion_solicitud_routes import informacion_solicitud_routes
-from flask_sqlalchemy import SQLAlchemy
 from config import DATABASE_CONNECTION_URI
 from flask_cors import CORS
 from utils.db import db
