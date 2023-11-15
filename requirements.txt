@@ -7,13 +7,10 @@ colorama==0.4.6
 contourpy==1.1.0
 cycler==0.11.0
 distlib==0.3.6
-Django==3.2.8
-experta==1.9.4
 filelock==3.12.2
-Flask==2.0.2
 Flask-Cors==3.0.10
 flask-marshmallow==0.15.0
-Flask-SQLAlchemy==2.5.1
+Flask-SQLAlchemy
 fonttools==4.40.0
 frozendict==1.2
 greenlet==1.1.2
@@ -26,13 +23,8 @@ kiwisolver==1.4.4
 MarkupSafe==2.0.1
 marshmallow==3.20.1
 marshmallow-sqlalchemy==0.29.0
-matplotlib==3.7.1
 mysql-connector-python==8.0.33
-numpy==1.24.3
-opencv-python==4.7.0.72
 packaging==23.1
-pandas==2.0.3
-Pillow==9.5.0
 platformdirs==3.7.0
 protobuf==3.20.3
 pycodestyle==2.8.0
@@ -45,7 +37,7 @@ pytz==2023.3
 schema==0.6.7
 setuptools==41.2.0
 six==1.16.0
-SQLAlchemy==1.4.26
+SQLAlchemy
 sqlparse==0.4.4
 toml==0.10.2
 typing_extensions==4.6.3
