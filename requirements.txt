@@ -11,7 +11,7 @@ filelock==3.12.2
 Flask-Cors==3.0.10
 flask-marshmallow==0.15.0
 Flask-SQLAlchemy==2.4.0
-fonttools==4.40.0
+fonttools==4.47.0
 frozendict==1.2
 greenlet==1.1.2
 gunicorn>=20.1.0
